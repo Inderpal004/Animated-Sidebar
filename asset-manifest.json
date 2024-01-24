@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Animated-Sidebar/static/css/main.bf3bf793.css",
+    "main.js": "/Animated-Sidebar/static/js/main.5da7bafd.js",
+    "index.html": "/Animated-Sidebar/index.html",
+    "main.bf3bf793.css.map": "/Animated-Sidebar/static/css/main.bf3bf793.css.map",
+    "main.5da7bafd.js.map": "/Animated-Sidebar/static/js/main.5da7bafd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf3bf793.css",
+    "static/js/main.5da7bafd.js"
+  ]
+}
